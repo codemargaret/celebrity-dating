@@ -1,0 +1,9 @@
+.btn {
+  display: block;
+}
+img {
+  max-height: 300px;
+}
+#oldlady, #younglady, #oldman, #youngman, #other {
+  display: none;
+}
